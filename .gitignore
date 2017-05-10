@@ -1,0 +1,15 @@
+/packages
+/SelfHostedWebApi/obj
+/SelfHostedWebApi/obj/*
+/SelfHostedWebApi/bin
+/SelfHostedWebApi/bin/*
+/SelfHostedWebApi/App_Data/*
+/.vs
+
+/Publish
+/SofCoAr/obj
+/SofCoAr/App_Data/*
+/SofCoAr/bin
+/SofCoAr/ImageStorage/*
+/TestResults
+/SofcoTest
